@@ -4,6 +4,6 @@
 
 Puedes ver el sitio web terminado aquí:
 
-https://romanpinelo.github.io
+https://romanpinelo.github.io/cuadro-mondrian-bootstrap/
 
 Práctica de una réplica del cuadro de Mondrian hecho con conceptos de Bootstrap.
